@@ -12,6 +12,7 @@
         "node": ">=18.0.0"
     },
     "dependencies": {
+        "js-yaml": "^4.3.2",
         "nightwatch": "^3.11.0"
     }
 }

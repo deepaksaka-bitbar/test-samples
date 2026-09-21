@@ -17,6 +17,7 @@
     "@wdio/mocha-framework": "^9.7.3",
     "@wdio/spec-reporter": "^9.8.0",
     "chai": "^5.1.2",
+    "js-yaml": "^4.3.2",
     "rimraf": "^5.0.10"
   },
   "repository": {
