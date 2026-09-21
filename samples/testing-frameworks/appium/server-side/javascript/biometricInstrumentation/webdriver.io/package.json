@@ -17,7 +17,8 @@
         "@wdio/local-runner": "^8.41.0",
         "@wdio/mocha-framework": "^8.41.0",
         "@wdio/spec-reporter": "^8.41.0",
-        "chai": "^5.1.2"
+        "chai": "^5.1.2",
+        "js-yaml": "^4.3.2"
     },
     "overrides": {
         "deepmerge-ts": "8.0.0",
